@@ -1,1 +1,1 @@
-Pour voir les différents question elle sont tute séparer et numéroté dans le fichier app1/Question
+Pour voir les différents questions elle sont toutes séparées et numérotées dans le fichier app1/QuestionExam
